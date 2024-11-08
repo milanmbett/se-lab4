@@ -1,0 +1,4 @@
+# Hozz létre egy hajót, ahol az elsődleges tár meghibásodik, a másodlagos nem
+GT4500,5,1,5,0
+TORPEDO,SINGLE  # Első lövés - elsődleges tár meghibásodik
+TORPEDO,SINGLE  # Második lövés - másodlagos tárból sikeres

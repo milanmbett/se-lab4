@@ -1,0 +1,4 @@
+# Hozz létre egy hajót, ahol az elsődleges tár üres, a másodlagosban 1 torpedó van
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # Első lövés - másodlagos tárból
+TORPEDO,SINGLE  # Második lövés - próbál lőni az elsődlegesből, de az üres
