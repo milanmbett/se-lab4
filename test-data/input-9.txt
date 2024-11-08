@@ -1,0 +1,3 @@
+# Hozz létre egy hajót, ahol mindkét torpedótár 100%-os meghibásodási aránnyal rendelkezik
+GT4500,5,1,5,1
+TORPEDO,ALL
